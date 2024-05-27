@@ -13,7 +13,6 @@ https://github.com/bigmovers/pumpfun-bundler/assets/165174061/79abad6b-5927-4771
 
 **TELEGRAM** for contact & **POC**(Proof of Concept) & **VOUCHES**: [@benoriz0](https://t.me/benoriz0)
 
-Price of tool is 15 SOL.
 
 Support in running the tool is included in the price.
 
