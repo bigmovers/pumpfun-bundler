@@ -59,7 +59,7 @@ Watch out for other scammers on GitHub - they either sell my outdated program wh
 To get started with the Pump.Fun Launch Bundle Tool, follow these steps:
 
 1. DM me on TG - @benoriz0
-   **PRICE OF TOOL IS 15 SOL**
+
    
 3. Navigate to the project directory:
     ```bash
