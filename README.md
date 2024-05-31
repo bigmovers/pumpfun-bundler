@@ -20,10 +20,10 @@ Watch out for other scammers on GitHub - they either sell my outdated program wh
 
 
 **Other tools**
-- Volume Maker JITO/Non-JITO
-- Holders/Buyers Maker JITO
-- Raydium JITO Bundler
-- Raydium Non-JITO Bundler
+- [Solana JITO Bundler](https://github.com/bigmovers/solana-bundle)
+- [Buyers/Holders Maker](https://github.com/bigmovers/solana-maker)
+- [Sniper for New Pairs with Filters](https://github.com/bigmovers/solana-sniper-bot)
+- [Volume Maker JITO/Non-JITO](https://github.com/bigmovers/solana-volume-bot)
 - LP Manager
 - Telegram Cloner
 
