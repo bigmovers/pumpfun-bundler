@@ -15,7 +15,7 @@ https://github.com/bigmovers/pumpfun-bundler/assets/165174061/79abad6b-5927-4771
 
 [benorizz0](https://t.me/benorizz0) **(ACTIVE)**
 
-[@benoriz0](https://t.me/benoriz0) (SUSPENDED TEMPORARY)
+~@benoriz0~ (SUSPENDED TEMPORARY)
 
 
 Support in running the tool is included in the price.
