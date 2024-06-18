@@ -1,11 +1,12 @@
 # Pump.Fun Launch Bundle Tool
 
-Welcome to **Pump.Fun Launch Bundle Tool** - the ultimate solution for maximizing the potential of your launches on the Solana chain. 
+Welcome to **Pump.Fun Launch Bundle Tool** - the ultimate solution to bundle on Pump.Fun with advanced profile creation + anti-bubblemaps.
 
-This tool offers the best, fastest, and most efficient self-bundling scripts, enabling you to create a pool with your own 25 buyers in one single bundle.
+This tool offers the best, fastest, and most efficient self-bundling script for Pump.Fun, enabling you to launch a token with 20 different wallets(and profiles).
+
+The launches are completely bubblemaps-proof. Check the coin example link below the demo video.
 
 **NO HIDDEN FEES, NO BULLSHIT**
-
 
 
 
@@ -16,7 +17,7 @@ https://github.com/bigmovers/pumpfun-bundler/assets/165174061/75539050-b70e-4892
 
 
 
-COIN EXAMPLE: [https://www.pump.fun/4sWsaTT1hiyJ6iz9NB2Q2jPAet96eVsFWFwEpAxervwH](https://www.pump.fun/6VJPHPQSzMHEpewek491WkNF6CNkpz5opSGnqaaTNwHm)
+COIN EXAMPLE: [https://www.pump.fun/4sWsaTT1hiyJ6iz9NB2Q2jPAet96eVsFWFwEpAxervwH](https://www.pump.fun/6VJPHPQSzMHEpewek491WkNF6CNkpz5opSGnqaaTNwHm)  **(CHECK BUBBLEMAPS)**
 
 
 
@@ -25,7 +26,6 @@ COIN EXAMPLE: [https://www.pump.fun/4sWsaTT1hiyJ6iz9NB2Q2jPAet96eVsFWFwEpAxervwH
 
 [benorizz0](https://t.me/benorizz0) **(ACTIVE)**
 
-~@benoriz0~ (SUSPENDED TEMPORARY)
 
 
 Support in running the tool is included in the price.
@@ -47,6 +47,9 @@ Watch out for other scammers on GitHub - they either sell my outdated program wh
 ### Seamless UI
 - **💊 Seamless UI:** Experience a straightforward and completely automatic user interface designed for ease of use and efficiency.
 
+### Advanced Profile Creation
+- **🧑 Random Profiles:** The tool generates the profile for each token, for maximum authenticity, and also makes them hold different random tokens.
+
 ### Custom LUT Program
 - **🔥 Custom LUT Program:** Leverage our custom LUT (Look-Up Table) program to optimize your launch strategies.
 
@@ -54,7 +57,7 @@ Watch out for other scammers on GitHub - they either sell my outdated program wh
 - **🚨 Automatic Supply Deviation:** Automatically manage supply deviations to ensure smooth and efficient launches.
 
 ### Custom Configurable Buyers
-- **🔔 25 Custom Configurable Buyers:** Customize and configure up to 25 different keypar buyers
+- **🔔 20 Custom Configurable Buyers:** Customize and configure up to 20 different keypar buyers
 
 ### Unmatched Performance
 - **🤖 Unmatched Performance, Stability, and Speed:** Benefit from the unparalleled performance, stability, and speed of our tool.
@@ -72,7 +75,7 @@ Watch out for other scammers on GitHub - they either sell my outdated program wh
 
 To get started with the Pump.Fun Launch Bundle Tool, follow these steps:
 
-1. DM me on TG - @benoriz0
+1. DM me on TG - @benorizz0
 
    
 3. Navigate to the project directory:
