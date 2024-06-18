@@ -6,9 +6,11 @@ This tool offers the best, fastest, and most efficient self-bundling scripts, en
 
 **NO HIDDEN FEES, NO BULLSHIT**
 
-NEW VIDEO DEMO COMING SOON
+[screen-capture (6).webm](https://github.com/bigmovers/pumpfun-bundler/assets/165174061/519ef5a4-ab42-4628-86ed-736629043844)
 
-COIN EXAMPLE: https://www.pump.fun/4sWsaTT1hiyJ6iz9NB2Q2jPAet96eVsFWFwEpAxervwH
+
+
+COIN EXAMPLE: [https://www.pump.fun/4sWsaTT1hiyJ6iz9NB2Q2jPAet96eVsFWFwEpAxervwH](https://www.pump.fun/6VJPHPQSzMHEpewek491WkNF6CNkpz5opSGnqaaTNwHm)
 
 
 
