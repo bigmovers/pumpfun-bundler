@@ -4,9 +4,12 @@ Welcome to **Pump.Fun Launch Bundle Tool** - the ultimate solution for maximizin
 
 This tool offers the best, fastest, and most efficient self-bundling scripts, enabling you to create a pool with your own 25 buyers in one single bundle.
 
-
+**NO HIDDEN FEES, NO BULLSHIT**
 
 https://github.com/bigmovers/pumpfun-bundler/assets/165174061/79abad6b-5927-4771-add7-062686a62465
+
+
+COIN EXAMPLE: https://www.pump.fun/4sWsaTT1hiyJ6iz9NB2Q2jPAet96eVsFWFwEpAxervwH
 
 
 
