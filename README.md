@@ -6,7 +6,7 @@ This tool offers the best, fastest, and most efficient self-bundling script for 
 
 The launches are completely bubblemaps-proof. Check the coin example link below the demo video.
 
-**NO HIDDEN FEES, NO BULLSHIT**
+**NO HIDDEN FEES, NO PROGRAMS**
 
 
 
