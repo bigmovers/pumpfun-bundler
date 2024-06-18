@@ -6,7 +6,13 @@ This tool offers the best, fastest, and most efficient self-bundling scripts, en
 
 **NO HIDDEN FEES, NO BULLSHIT**
 
-[screen-capture (6).webm](https://github.com/bigmovers/pumpfun-bundler/assets/165174061/519ef5a4-ab42-4628-86ed-736629043844)
+
+
+
+
+https://github.com/bigmovers/pumpfun-bundler/assets/165174061/75539050-b70e-4892-8d14-4f101a50d832
+
+
 
 
 
