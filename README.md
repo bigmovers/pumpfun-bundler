@@ -10,6 +10,7 @@ The launches are completely bubblemaps-proof. Check the coin example link below 
 
 
 **LATEST DEMO VIDEO FROM 18.06.2024**
+
 **I ALSO DO LIVE DEMOS ON REQUEST**
 
 https://github.com/bigmovers/pumpfun-bundler/assets/165174061/75539050-b70e-4892-8d14-4f101a50d832
