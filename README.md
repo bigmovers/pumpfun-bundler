@@ -19,11 +19,6 @@ https://github.com/bigmovers/pumpfun-bundler/assets/165174061/75539050-b70e-4892
 
 
 
-COIN EXAMPLE: [https://www.pump.fun/4sWsaTT1hiyJ6iz9NB2Q2jPAet96eVsFWFwEpAxervwH](https://www.pump.fun/6VJPHPQSzMHEpewek491WkNF6CNkpz5opSGnqaaTNwHm)  **(CHECK BUBBLEMAPS)**
-
-
-
-
 **TELEGRAM** for contact & **POC**(Proof of Concept) & **VOUCHES**:  
 
 [benorizz0](https://t.me/benorizz0) **(ACTIVE)**
